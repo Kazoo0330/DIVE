@@ -152,6 +152,7 @@ ul.top_menu {
     width: 100%;
 }
 
+/* 下記の"side_menu .point"と".side_menu .point a"でcompany.htmlのサイドメニューにある「会社概要」を薄ピンク色で強調しています。 */
 .side_menu .point{
     background-color: #FCECEC;
 }
